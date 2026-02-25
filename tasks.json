@@ -1,14 +1,10 @@
 {
-  "8373141092": {
-    "lastDailyClaim": 1771857929084,
-    "dailyStreak": 1,
-    "completed": {
-      "join_channel": 1771857945763,
-      "join_group": 1771857945768
-    }
-  },
   "8285256986": {
-    "lastDailyClaim": 1771941114746,
-    "dailyStreak": 1
+    "usedReferral": true,
+    "referredBy": "8373141092",
+    "referralDate": 1772038870816
+  },
+  "8373141092": {
+    "milestones": {}
   }
 }
