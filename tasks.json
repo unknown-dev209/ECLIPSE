@@ -1,8 +1,14 @@
 {
   "8373141092": {
-    "gotStartBonus": true
+    "gotStartBonus": true,
+    "milestones": {}
   },
   "8275338913": {
-    "gotStartBonus": true
+    "gotStartBonus": true,
+    "usedReferral": true,
+    "referredBy": "8373141092",
+    "referralDate": 1772042847457,
+    "lastDailyClaim": 1772042929527,
+    "dailyStreak": 1
   }
 }
