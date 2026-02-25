@@ -1,10 +1,8 @@
 {
-  "8285256986": {
-    "usedReferral": true,
-    "referredBy": "8373141092",
-    "referralDate": 1772038870816
-  },
   "8373141092": {
-    "milestones": {}
+    "completed": {
+      "join_channel": 1772039296771,
+      "join_group": 1772039296774
+    }
   }
 }
