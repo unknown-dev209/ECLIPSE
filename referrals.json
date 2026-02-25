@@ -1,8 +1,10 @@
 {
   "8373141092": {
     "code": "UKVGXZGZNZMX",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "7754834402"
+    ],
+    "totalEarned": 1,
     "createdAt": 1772039271563
   }
 }
