@@ -9,6 +9,8 @@
     }
   },
   "8373141092": {
-    "welcomeClaimed": true
+    "welcomeClaimed": true,
+    "lastDailyClaim": 1772363408570,
+    "dailyStreak": 1
   }
 }
