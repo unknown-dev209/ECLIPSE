@@ -2,6 +2,10 @@
   "8285256986": {
     "welcomeClaimed": true,
     "lastDailyClaim": 1772362631946,
-    "dailyStreak": 1
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1772362772097,
+      "join_group": 1772362772099
+    }
   }
 }
