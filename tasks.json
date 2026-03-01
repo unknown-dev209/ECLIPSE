@@ -1,5 +1,12 @@
 {
   "8373141092": {
+    "welcomeClaimed": true,
+    "completed": {
+      "join_channel": 1772373829569,
+      "join_group": 1772373829572
+    }
+  },
+  "8285256986": {
     "welcomeClaimed": true
   }
 }
