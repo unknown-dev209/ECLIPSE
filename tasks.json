@@ -1,5 +1,9 @@
 {
   "8459297159": {
-    "gotStartBonus": true
+    "gotStartBonus": true,
+    "completed": {
+      "join_channel": 1772996950919,
+      "join_group": 1772996950924
+    }
   }
 }
