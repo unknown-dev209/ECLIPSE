@@ -1,11 +1,5 @@
 {
   "8459297159": {
-    "gotStartBonus": true,
-    "completed": {
-      "join_channel": 1772996950919,
-      "join_group": 1772996950924
-    },
-    "lastDailyClaim": 1772996954874,
-    "dailyStreak": 1
+    "gotStartBonus": true
   }
 }
