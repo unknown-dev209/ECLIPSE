@@ -38,7 +38,9 @@
   "NEURO-PCMRV4NOFX": {
     "reward": 4,
     "maxUses": 4,
-    "usedBy": [],
+    "usedBy": [
+      "7566548129"
+    ],
     "createdBy": "8459297159",
     "createdAt": 1773151058087,
     "active": true
