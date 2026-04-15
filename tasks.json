@@ -30,6 +30,12 @@
   "8718424344": {
     "usedReferral": true,
     "referredBy": "7566548129",
-    "referralDate": 1776266439653
-  }
+    "referralDate": 1776266439653,
+    "completed": {
+      "join_channel": 1776268554596,
+      "join_group": 1776268554599
+    }
+  },
+  "8396507614": {},
+  "8605542508": {}
 }
