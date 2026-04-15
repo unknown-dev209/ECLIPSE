@@ -36,6 +36,10 @@
   "7115452704": {},
   "8289965517": {
     "lastDailyClaim": 1776248686586,
-    "dailyStreak": 1
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1776248697923,
+      "join_group": 1776248697928
+    }
   }
 }
