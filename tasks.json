@@ -58,7 +58,9 @@
     "completed": {
       "join_channel": 1776250055436,
       "join_group": 1776250055438
-    }
+    },
+    "lastDailyClaim": 1776250067375,
+    "dailyStreak": 1
   },
   "7890357223": {}
 }
