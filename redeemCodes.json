@@ -1,14 +1,10 @@
 {
-  "ZENTRIX-1FFV65VO4O": {
+  "ZENTRIX-NVN8FK1GIW": {
     "reward": 200,
     "maxUses": 30,
-    "usedBy": [
-      "7356473206",
-      "8275338913",
-      "7485028254"
-    ],
+    "usedBy": [],
     "createdBy": "8459297159",
-    "createdAt": 1776250209160,
+    "createdAt": 1776251161356,
     "active": true
   }
 }
