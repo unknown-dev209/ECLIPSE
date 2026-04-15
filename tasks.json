@@ -5,6 +5,12 @@
     "completed": {
       "join_channel": 1776251514748,
       "join_group": 1776251514753
-    }
+    },
+    "milestones": {}
+  },
+  "7228492520": {
+    "usedReferral": true,
+    "referredBy": "7143510699",
+    "referralDate": 1776251605009
   }
 }
