@@ -2,7 +2,9 @@
   "ZENTRIX-1FFV65VO4O": {
     "reward": 200,
     "maxUses": 30,
-    "usedBy": [],
+    "usedBy": [
+      "7356473206"
+    ],
     "createdBy": "8459297159",
     "createdAt": 1776250209160,
     "active": true
