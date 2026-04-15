@@ -19,10 +19,17 @@
       "join_group": 1776262324363
     }
   },
-  "7566548129": {},
+  "7566548129": {
+    "milestones": {}
+  },
   "7975245479": {},
   "7513391389": {
     "lastDailyClaim": 1776266024833,
     "dailyStreak": 1
+  },
+  "8718424344": {
+    "usedReferral": true,
+    "referredBy": "7566548129",
+    "referralDate": 1776266439653
   }
 }
