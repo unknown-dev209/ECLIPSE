@@ -1,29 +1,7 @@
 {
-  "8224888225": {
-    "milestones": {}
-  },
-  "8062002879": {
-    "usedReferral": true,
-    "referredBy": "8224888225",
-    "referralDate": 1776339421911,
-    "lastDailyClaim": 1776339444382,
-    "dailyStreak": 1,
-    "completed": {
-      "join_channel": 1776339493576,
-      "join_group": 1776339493579
-    }
-  },
+  "8343886927": {},
   "7877138574": {
-    "usedReferral": true,
-    "referredBy": "8224888225",
-    "referralDate": 1776340001505
-  },
-  "8715734672": {
-    "lastDailyClaim": 1776341184129,
-    "dailyStreak": 1,
-    "completed": {
-      "join_channel": 1776341230666,
-      "join_group": 1776341230668
-    }
+    "lastDailyClaim": 1776342509935,
+    "dailyStreak": 1
   }
 }
