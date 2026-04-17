@@ -1,21 +1,14 @@
 {
-  "6641099440": {
-    "completed": {
-      "join_channel": 1776439903689,
-      "join_group": 1776439903696
-    },
-    "milestones": {}
-  },
-  "8626023441": {},
-  "8344889087": {
-    "usedReferral": true,
-    "referredBy": "6641099440",
-    "referralDate": 1776441988781,
-    "lastDailyClaim": 1776442061854,
+  "6665825086": {
+    "lastDailyClaim": 1776433257434,
     "dailyStreak": 1,
     "completed": {
-      "join_channel": 1776442068783,
-      "join_group": 1776442068785
+      "join_channel": 1776433616111,
+      "join_group": 1776433616114
     }
+  },
+  "7785548044": {
+    "lastDailyClaim": 1776447746985,
+    "dailyStreak": 1
   }
 }
