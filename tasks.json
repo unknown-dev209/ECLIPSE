@@ -1,6 +1,23 @@
 {
-  "6641099440": {
-    "lastDailyClaim": 1776450035436,
+  "6665825086": {
+    "lastDailyClaim": 1776433257434,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1776433616111,
+      "join_group": 1776433616114
+    }
+  },
+  "7785548044": {
+    "lastDailyClaim": 1776447746985,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1776447803288,
+      "join_group": 1776447803291
+    }
+  },
+  "8231896253": {},
+  "8313328216": {
+    "lastDailyClaim": 1776451700466,
     "dailyStreak": 1
   }
 }
