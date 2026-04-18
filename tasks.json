@@ -21,6 +21,10 @@
     "referredBy": "8331574436",
     "referralDate": 1776538374573,
     "lastDailyClaim": 1776538485051,
-    "dailyStreak": 1
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1776538512349,
+      "join_group": 1776538512358
+    }
   }
 }
