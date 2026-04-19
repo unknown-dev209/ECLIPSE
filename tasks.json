@@ -1,23 +1,6 @@
 {
-  "8464459397": {
-    "completed": {
-      "join_channel": 1776601239605,
-      "join_group": 1776601239673
-    }
-  },
-  "7844541967": {},
-  "8108120790": {
-    "completed": {
-      "join_channel": 1776621339304,
-      "join_group": 1776621339307
-    }
-  },
-  "6641099440": {
-    "lastDailyClaim": 1776625258868,
-    "dailyStreak": 1,
-    "completed": {
-      "join_channel": 1776625305305,
-      "join_group": 1776625305311
-    }
+  "7485028254": {
+    "lastDailyClaim": 1776630949002,
+    "dailyStreak": 1
   }
 }
